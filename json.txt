@@ -1,0 +1,11 @@
+json
+{
+    "named": ["ahmed"],
+    "age": [15],
+    "city": ["assiut"]
+    
+    }
+                                                                !pip install pandas
+import pandas as pd
+file = pd.read_json("")
+file.to_csv("",index=false)
